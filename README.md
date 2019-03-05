@@ -5,7 +5,7 @@ import java.util.*;
 import static java.lang.System.out;
 class Sample{
  public static void main(String args[]){
-  out.println("Hello World");l
+  out.println("Hello World");
  
  
  }
