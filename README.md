@@ -1,11 +1,15 @@
 # sample
 for testing purposes
-#include<iostream>
-#include<conio.h>
-using namespace std;
-int main()
- {
-    cout<<"HELLO WORLD";
-  
-  return 0;
-  }
+import java.io.*;
+import java.util.*;
+import static java.lang.System.out;
+class Sample{
+ public static void main(String args[]){
+  out.println("Hello World");l
+ 
+ 
+ }
+
+
+}
+
